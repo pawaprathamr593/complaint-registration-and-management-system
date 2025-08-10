@@ -35,6 +35,6 @@ project/
    git clone https://github.com/pawaprathamr593/complaint-registration-and-management-system.git
 Move into the project folder:
 cd complaint-registration-and-management-system
-Import the database from the database folder into MySQL.
+
 
 Update database credentials in your backend configuration file.
